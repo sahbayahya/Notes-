@@ -1,0 +1,1 @@
+This notes is just for reading the equations is used to calculate the power spectrum and also the derivatives of the the power spectrum with respect to the parameters we are intrested in (logDa and logH).
